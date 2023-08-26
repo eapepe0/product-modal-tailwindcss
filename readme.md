@@ -14,7 +14,7 @@ Pagina hecha con tailwindcss
 
 ## Deploy
 
-[Link a la pagina]()
+[Link a la pagina](https://tubular-quokka-f7020e.netlify.app)
 [Link a la pagina marcada](https://64ea6e96f3c77075702dcc4c--dazzling-elf-4e5dc6.netlify.app/)
 
 ## Correr Tailwind
