@@ -1,4 +1,4 @@
-# Pricing Grid Website
+# Product Modal Website
 
 Pagina hecha con tailwindcss
 
